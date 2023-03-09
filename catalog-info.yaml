@@ -5,4 +5,6 @@ metadata:
   description: A sample catalog for Backstage
 spec:
   targets:
-    - ./groups/org.yaml
+     - ./groups/org.yaml
+     - ./systems/system.yaml
+     - ./domains/domain.yaml

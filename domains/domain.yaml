@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: tap-gui-domain
+  description: Everything related to the Cloudfusion Business Applications Domain
+  links:
+    - url: https://cloudfusion.proximus.com
+      title: Cloudfusion
+spec:
+  owner: belgian-team
