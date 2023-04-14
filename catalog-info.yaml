@@ -9,3 +9,4 @@ spec:
      - ./groups/org.yaml
      - ./systems/system.yaml
      - ./domains/domain.yaml
+     - ./components/cloudfusion-tap.yaml
